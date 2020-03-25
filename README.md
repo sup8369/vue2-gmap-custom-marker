@@ -40,7 +40,7 @@ This project is a plugin for [vue-google-maps](https://github.com/xkjyeah/vue-go
 
 Install the package from [npm](https://www.npmjs.com/package/vue2-gmap-custom-marker):
 
-`npm i vue2-gmap-custom-marker`
+`npm i https://github.com/sup8369/vue2-gmap-custom-marker.git`
 
 # Basic Usage
 
